@@ -61,7 +61,7 @@ $ git clone https://github.com/filipebteixeira98/proffy-web.git && cd proffy-web
 _Obs.: Before to continue, be sure to have the API running_
 
 ```bash
-# Install the dependencies
+# Install dependencies
 $ yarn
 
 # Be sure the file 'src/services/api.ts' have the IP to your API
@@ -85,7 +85,7 @@ $ gh repo fork filipebteixeira98/proffy-web
 
 ```bash
 # Clone your fork
-$ git clone https://github.com/filipebteixeira98/proffy-web.git && cd proffy-web
+$ git clone your-fork-url && cd proffy-web
 
 # Create a branch with your feature
 $ git checkout -b my-feature
