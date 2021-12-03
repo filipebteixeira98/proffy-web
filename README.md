@@ -49,7 +49,6 @@ Technologies that I used to develop this application
 
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://classic.yarnpkg.com/)
-- [Expo](https://expo.io/)
 
 **Clone the project and access the folder**
 
