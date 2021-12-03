@@ -64,6 +64,8 @@ _Obs.: Before to continue, be sure to have the API running_
 # Install the dependencies
 $ yarn
 
+# Be sure the file 'src/services/api.ts' have the IP to your API
+
 # Start the client
 $ yarn start
 ```
